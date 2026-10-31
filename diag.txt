@@ -1,25 +1,13 @@
-=== START 2026-10-31T10:41:48Z ===
+=== START 2026-10-31T15:46:07Z ===
 wine: wine-11.0
-hostname runnervmnwato -> 127.0.0.1       STREAM runnervmnwato
+hosts: 127.0.0.1       STREAM runnervmnwato
 --- wineboot ---
-wineboot rc=124
+wineboot rc=0
 tmux rc=0
-answered first-run prompt with N at 300s
-first-run prompt at 300s, main menu at 0s
---- pane before Start Server ---
-RebornRec - Old RecRoom Server Software. (Version: Public Release 5.2.0)
-GitHub Repository and Wiki: https://github.com/aqquad/RebornRec
-Discord Server: https://discord.gg/yWBNpcAQTf
-
-It is recommended that you setup your profile before playing a build. Do this by pressing 3.
-
-Quest Mode Engaged! This mode is for using RebornRec with Quest builds. If you did not mean to activate this mode, stop running RebornRec as admin.
-
-(1) What's New
-(2) Settings Menu
-(3) Modify Profile
-(4) Build Manager
-(5) Start Server
+--- menu pane ---
+Welcome to RebornRec 5.2.0!
+Is this your first time using RebornRec?
+Press (Y) for Yes, or (N) for No
 
 
 
@@ -57,16 +45,71 @@ Quest Mode Engaged! This mode is for using RebornRec with Quest builds. If you d
 
 
 
-sent '5' (attempt 1)
-sent '5' (attempt 2)
-sent '5' (attempt 3)
-sent '5' (attempt 4)
-port 2056 after 0s
+
+
+
+
+
+
+
+
+
+
+sent 5
 --- server pane ---
-no server running on /tmp/tmux-1001/default
+Welcome to RebornRec 5.2.0!
+Is this your first time using RebornRec?
+Press (Y) for Yes, or (N) for No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --- ports ---
---- local probe ---
+--- probes ---
 Host 127.0.0.1:2056 -> 000
+Host localhost:2056 -> 000
 Host runnervmnwato:2056 -> 000
-FATAL: RebornRec never bound 2056
-=== END 2026-10-31T11:00:38Z ===
+=== END 2026-10-31T15:50:29Z ===
