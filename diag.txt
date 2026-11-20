@@ -1,17 +1,115 @@
-=== START 2026-11-20T04:02:27Z ===
+=== START 2026-11-20T12:46:45Z ===
 wine: wine-11.0
-hosts: 127.0.0.1       STREAM runnervmccnms
+hosts: 127.0.0.1       STREAM runnervm0hi8g
 --- wineboot ---
 wineboot rc=0
 tmux rc=0
 --- menu pane ---
-no server running on /tmp/tmux-1001/default
+Welcome to RebornRec 5.2.0!
+Is this your first time using RebornRec?
+Press (Y) for Yes, or (N) for No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 sent 5
 --- server pane ---
-no server running on /tmp/tmux-1001/default
+Welcome to RebornRec 5.2.0!
+Is this your first time using RebornRec?
+Press (Y) for Yes, or (N) for No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --- ports ---
 --- probes ---
 Host 127.0.0.1:2056 -> 000
 Host localhost:2056 -> 000
-Host runnervmccnms:2056 -> 000
-=== END 2026-11-20T04:06:44Z ===
+Host runnervm0hi8g:2056 -> 000
+=== END 2026-11-20T12:51:01Z ===
